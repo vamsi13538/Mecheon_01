@@ -1,1 +1,1 @@
-# Code-
+The Web Pages are designed by using Bootstrap_v.5.2.2 classes , HTML5, CSS3 and other modal's using bootstrap and in addition to all this the interesting one is Page Body in "Edit" button which is an external file from cke editor body is impressive and easy to Work on : ) #coding-fun
