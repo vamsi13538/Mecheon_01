@@ -1,0 +1,94 @@
+/* NAV BAR */
+body{
+    background:#f4f4f4;
+  }
+.create{
+    background-color: #0E5E6F;
+}
+#nav{
+    background-color:  #0E5E6F !important;
+}
+.text{
+    color: white !important;
+}
+.navbar-default .nav-link:hover{
+    opacity: 0.4;
+    border: 0px black solid;
+    background-color: white;
+    color: black !important;
+}
+/* HEADER */
+.btn1{
+    background-color:  #0E5E6F !important;
+    color: white !important;
+    margin-bottom: 10px;
+}
+#header{
+    background-color: #333333;
+    color: #ffff;
+    padding: 10px 0px;
+
+}
+/* BREAD CRUMB */
+.breadcrumb{
+    margin: 20px 0px !important;
+  }
+/* LIST GROUP */
+.li-color{
+    background-color: #0E5E6F !important;
+    color: white !important;
+}
+.dark{
+    float: right;
+}
+/* PROGRESS BAR */
+.create2{
+    border: 2px solid whitesmoke;
+    height: 150px;
+    border-radius: 5px;
+}
+.disk{
+    padding: 10px 0px;
+    font-size: 18px;
+}
+/* WEBSITE OVERVIEW */
+#create3{
+    padding: 20px 30px !important;
+    border: 2px solid whitesmoke;
+}
+/* TABLE */
+.list{
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
+/* FOOTER */
+#footer{
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px 0px;
+    background-color: #333333;
+    color: #f4f4f4;
+    font-size: 18px;
+    height: 70px;
+}
+.filter-names{
+    margin: 20px 0px;
+}
+.index-pages-link{
+    background-color: black;
+    border-radius: 10px;
+}
+.index-posts-link{
+    background-color: black;
+    border-radius: 10px;
+}
+.index-users-link{
+    background-color: black;
+    border-radius: 10px;
+}
+.ci{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
